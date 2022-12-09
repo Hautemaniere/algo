@@ -1,5 +1,0 @@
-﻿  exo1.cpp
-c:\users\lacaa\source\repos\ch5\ch5\exo1.cpp(2): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
-c:\users\lacaa\source\repos\ch5\ch5\exo1.cpp(3): error C2440: 'initialisation' : impossible de convertir de 'const char [20]' en 'int'
-  c:\users\lacaa\source\repos\ch5\ch5\exo1.cpp(3): note: Aucun contexte dans lequel cette conversion est possible
-c:\users\lacaa\source\repos\ch5\ch5\exo1.cpp(3): fatal error C1004: fin de fichier inattendue rencontrée
